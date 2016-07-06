@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  Interface Builder Tour
+//  SimonGame
 //
-//  Created by Michael Dippery on 6/8/16.
-//  Copyright © 2016 Michael Dippery. All rights reserved.
+//  Created by Flatiron School on 7/6/16.
+//  Copyright © 2016 Flatiron School. All rights reserved.
 //
 
 import UIKit
